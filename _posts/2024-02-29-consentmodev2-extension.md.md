@@ -9,7 +9,7 @@ chart:
   vega_lite: true
 ---
 
-**Per march 2024, Consent Mode v2 is mandatory** 
+**Per march 2024, Consent Mode v2 is mandatory**
 It's crucial to ensure that your implementation is up to date. If you're already working on your Consent Mode V2 implementation, here's a GTM template that can help you wrap it up effectively.
 
 **The Challenge with Ad-Specific Tags**
@@ -19,6 +19,7 @@ Imagine a scenario where a user clicks on your Google Shopping ad and lands on y
 There's a solution to this problem. By implementing a GTM-template, you can reactivate these events as soon as consent for advertising cookies is given. This ensures that you get a more complete picture of product and item list views in your advertising tools.
 
 How to Implement the GTM-template:
+
 1. **Download the Template:** Grab the 'template.tpl' file from [the GitHub repository by mohrstade](https://github.com/mohrstade/backTrack) and upload it to your GTM.
 2. **Modify the Script:** We've made a slight modification: at the end of the script, we set 'element.pushType' back to null. This prevents your Google tags from being blocked later in the process.
 3. **Trigger the backTrack Tag:** It should be triggered when consent was not yet known and as soon as it gets updated.
