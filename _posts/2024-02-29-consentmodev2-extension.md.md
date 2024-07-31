@@ -5,8 +5,6 @@ date: 2024-02-29 12:20:00
 description: The blog post provides a step-by-step guide for wrapping up your Consent Mode V2 implementation using a GTM template to ensure comprehensive tracking of ad-specific events
 tags: Tracking_measurement
 categories:
-chart:
-  vega_lite: true
 ---
 
 **Per march 2024, Consent Mode v2 is mandatory**

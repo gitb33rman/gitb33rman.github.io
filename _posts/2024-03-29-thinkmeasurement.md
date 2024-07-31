@@ -5,8 +5,6 @@ date: 2024-03-28 11:00:00
 description: In a world where AI shapes the very fabric of digital marketing, professionals stand at the brink of a paradigm shift
 tags: Tracking_measurement
 categories:
-chart:
-  vega_lite: true
 ---
 
 Navigating the precarious terrain of digital marketing in the AI-dominated landscape of 2024 presents a novel set of challenges and opportunities, devoid of the once-reliable guidance of cookies. Representing valantic NL, I recently attended Google's #thinkmeasurement event in Dublin, an assembly dedicated to unraveling the complexities of this new era.
