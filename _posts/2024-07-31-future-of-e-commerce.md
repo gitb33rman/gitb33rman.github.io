@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Future of E-commerce - Leveraging AI with Your GA4 Data
-date: 2024-04-28 12:00:00
+date: 2024-07-31 20:00:00
 description: This blog post shares key insights from Google's Community Circle.
 tags: Data_Science
 categories:

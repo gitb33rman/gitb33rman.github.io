@@ -28,4 +28,4 @@ Outside the office, I'm all about sports. Until my early twenties I competed in 
 
 Consider this website, a representation of my professional journey. In the blog, I write about my experiences, what I've picked up along the way, and the ideas I have. The repository section, I share my public programming projects, both from work and my free time. For a detailed look at my background, head over to the CV section.
 
-Let's dive into the world of data and analytics together and create some real-world impact. Got an idea or just want to chat? Drop me a line 📩.
+Let's dive into the world of data and analytics together and create some real-world impact.
