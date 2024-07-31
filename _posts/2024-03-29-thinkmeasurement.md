@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embracing the Future of Digital Marketing
+title: Looking into the Future of Digital Marketing
 date: 2024-03-28 11:00:00
 description: In a world where AI shapes the very fabric of digital marketing, professionals stand at the brink of a paradigm shift
 tags: Tracking_measurement
