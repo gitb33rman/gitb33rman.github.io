@@ -12,6 +12,36 @@
     - name: GitHub
       value: gitb33rman
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Strategy Lead
+      institution: Relevant Online
+      year: 2024 - now
+      description: 
+        My role is a dynamic blend of operations, strategy, business, and technology
+        - Leading data teams and empowering team leads.
+        - Crafting and executing data strategies tailored to client.
+        - Overseeing data-centric projects and serving as the primary point of contact.
+        - Developing new data use-cases with a strong focus on innovation.
+    - title: Head of Data & Analytics
+      institution: valantic NL
+      year: 2022 - 2024
+      description: 
+        - Established and expanded the Data & Analytics team.
+        - Led and mentored a dynamic team of professionals.
+        - Democratised and engaged Data & Analytics across the organization and with clients.
+        - Innovated and commercialized data-driven propositions.
+        - Explored new frontiers in digital landscapes, consistently seeking innovation.
+    - title: Data & Analytics Strategist
+      institution: valantic NL
+      year: 2021 - 2022
+      description: 
+    - title: Digital Advertising Consultant
+      institution: valantic NL
+      year: 2017 - 2021
+      description: 
+
 - title: Education
   type: "time_table"
   contents:
@@ -27,29 +57,6 @@
       description:
         - "GPA: 7.8"
         - "Thesis: The opportunity's and risks of AI in Digital Marketing"
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Strategy Lead
-      institution: Relevant Online
-      year: 2024 - 2024
-      description: 
-      - Growing and lead by example, continuously exploring new horizons in the digital landscapes.
-    - title: Head of Data & Analytics
-      institution: valantic NL
-      year: 2022 - 2024
-      description: 
-        - Spearheaded the growth of the Data & Analytics team, aiming to drive progress and innovation.
-        - Excelled in making Data & Analytics accessible and engaging through a unique mix of organizational, commercial, and technical skills.
-    - title: Data & Analytics Strategist
-      institution: valantic NL
-      year: 2021 - 2024
-      description: 
-    - title: Digital Advertising Consultant
-      institution: valantic NL
-      year: 2017 - 2021
-      description: 
 
 - title: Skills
   type: list
