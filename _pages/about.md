@@ -28,18 +28,3 @@ This mix of analytical work, leadership, and physical practice shapes how I show
 This site brings together the different parts of that journey. You’ll find writing on Data & Analytics, leadership, and organizational change, as well as side projects, code, and the occasional reflection on what I’m learning. If you want the full overview of my career so far, the CV page is the best place to start.
 
 Thanks for being here and for sharing an interest in making change work a little more consciously.
-
-
-
----
-Here's a bit about who I am and what I do.
-
-I am a leader in the Data & Analytics field, focussing on good results and learning fast. My role is to help keep pulling in the right direction.
-
-My goal is to make tricky data stuff easier for everyone to get. I use my knack for strategy, coming up with new solutions, and adapting on the fly to help our teams and clients get more value from Data & Analytics. I am also big into personal leadership.
-
-Outside the office, I'm all about sports. Until my early twenties I competed in Long track ice skater. [The (some would say ironic) highlight of this chapter](https://nos.nl/artikel/2082232-nk-allround-ontsierd-door-diskwalificaties) was a disqualification at the national championships. Nowadays, I enjoy the personal challenge of climbing 🧗‍♂️, a hobby I picked up in late 2022. It offers its own set of lessons.
-
-Consider this website, a representation of my professional journey. In the blog, I write about my experiences, what I've picked up along the way, and the ideas I have. The repository section, I share my public programming projects, both from work and my free time. For a detailed look at my background, head over to the CV section.
-
-Let's dive into the world of data and analytics together and create some real-world impact.
