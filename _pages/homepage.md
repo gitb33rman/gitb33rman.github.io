@@ -2,7 +2,7 @@
 layout: homepage
 title: home
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data, Leadership & Organizational Change
 nav: false
 #profile:
  # align: right
