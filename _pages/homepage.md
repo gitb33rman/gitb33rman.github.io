@@ -1,19 +1,20 @@
 ---
-layout: about
+layout: homepage
 title: home
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: #profile2.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
+nav: false
+#profile:
+ # align: right
+ # image: #profile2.png
+ # image_circular: false # crops the image to make it circular
+ # more_info: >
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+{% include figure.liquid loading="eager" path="assets/img/homepage_image.jpg" class="img-fluid rounded z-depth-1" %}
 
 Organizational change is constant.
 Many organizations respond by optimizing. Moving faster, adding tools, improving performance.

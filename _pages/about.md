@@ -1,9 +1,10 @@
 ---
 layout: about
-title: about
 permalink: /about/
+title: about
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+nav: true
+nav_order: 1
 profile:
   align: right
   image: profile2.png
