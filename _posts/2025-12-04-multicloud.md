@@ -18,9 +18,10 @@ No more waiting months for physical connections or dealing with complex routing.
 Nice, but what does this mean for most organizations? Until now, multicloud was mainly an architectural dream. The reality was fragmented networks, data silos, and long lead times to connect cloud environments.
 
 This collaboration changes the game:
-- Less infrastructure hassle  
-- Faster integration of data and applications between AWS and GCP  
-- More flexibility for AI and data strategies across multiple clouds  
+
+- Less infrastructure hassle
+- Faster integration of data and applications between AWS and GCP
+- More flexibility for AI and data strategies across multiple clouds
 
 Is your organization already working with one of these clouds? Then multicloud can suddenly make sense. Think access to the model garden in **Vertex AI**, or scalable storage and compute through AWS.
 

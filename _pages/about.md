@@ -15,6 +15,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
 I’ve spent the past years working in Data & Analytics, but what I really care about is how people and organizations navigate change. Data is simply the environment where I learned how decisions are made, how teams work under pressure, and what happens when systems scale faster than clarity.
 
 My work often centers around helping teams and leaders make sense of complexity. Not by adding more answers or frameworks, but by asking better questions, creating direction, and building the conditions for people to do their best work. I’ve found that most technical problems are actually organizational ones, and most organizational problems come down to choice, ownership, and communication.

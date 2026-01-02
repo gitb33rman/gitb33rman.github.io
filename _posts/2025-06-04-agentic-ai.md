@@ -15,8 +15,8 @@ Two weeks ago, I attended the Google Cloud Summit in Amsterdam. The message was 
 
 Google is betting big on this vision, with a growing ecosystem to support it:
 
-- **Model Context Protocol (MCP)** for seamless integration with tools like Gmail, Drive, and third-party APIs  
-- **Agent Development Toolkit** for modular, task-oriented agent design  
+- **Model Context Protocol (MCP)** for seamless integration with tools like Gmail, Drive, and third-party APIs
+- **Agent Development Toolkit** for modular, task-oriented agent design
 - **Agentspace**, an environment where multiple agents collaborate in real-time to power customer interactions
 
 These announcements weren’t just technical showcases. The biggest shift was the emphasis on business value. Two years ago, the conversation was about infrastructure and scale. Today, it’s about **enablement**, **simplicity**, and **live use cases** that matter.
@@ -33,8 +33,8 @@ Large language models have already shown that **data unification is essential**.
 
 Instead, we should focus on **proven ML applications** where business value is clear. Think:
 
-- Optimizing sales workflows  
-- Smarter marketing activation  
+- Optimizing sales workflows
+- Smarter marketing activation
 - Reducing operational costs (returns, lost revenue, logistics)
 
 Trying to apply a general-purpose LLM across your entire organization is often still **a step too far**.
@@ -45,8 +45,8 @@ The most important insight I left with: **agentic AI is an organizational challe
 
 If we want to move in this direction, we’ll need to start thinking differently:
 
-- **Modular working** with clear handovers and responsibilities (think: playbooks, agent design patterns, testable RAG modules)  
-- **Agents that collaborate like teams**, with roles, context, and shifting priorities  
+- **Modular working** with clear handovers and responsibilities (think: playbooks, agent design patterns, testable RAG modules)
+- **Agents that collaborate like teams**, with roles, context, and shifting priorities
 - **Sales through working demos**, showing clients what actually moves the needle
 
 I postponed writing this post—Fontainebleau was calling. But now that I’m back, one thing is clear:
