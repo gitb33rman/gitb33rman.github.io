@@ -7,6 +7,7 @@ This repository hosts my personal website at [gitb33rman.github.io](https://gitb
 I work at the intersection of Data & Analytics and leadership, helping organizations navigate change through conscious decision-making rather than just optimization.
 
 The site includes:
+
 - **Blog posts** on Data & Analytics, AI, cloud technology, and strategic leadership
 - **Professional background** and experience
 - **Repositories** showcasing technical projects
