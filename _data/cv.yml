@@ -60,8 +60,9 @@
   type: list
   contents:
     - "Programming Languages: Python, R"
-    - "Cloud Tools: Google Cloud, DBT, Terraform"
+    - "Cloud Tools: Google Cloud, BigQuery, DBT, Terraform"
     - "Marketing Tools: Google Suite"
+    - "BI Tools: PowerBI, Tableau, Looker Studio"
     - "Others: Jira, Git, HTML, YML"
 
 - title: Certifications
