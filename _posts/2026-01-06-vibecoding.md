@@ -1,9 +1,9 @@
 ---
 layout: post
-title: I Became a Better Cook Through Vibe Coding
+title: I became a better cook through vibe coding
 date: 2026-01-06 09:00:00
 description: How AI-powered coding expanded my ability to build, learn, and choose what to focus on
-tags: AI, Leadership
+tags: AI, Strategic_leadership
 categories:
 ---
 
