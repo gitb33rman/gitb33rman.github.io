@@ -3,34 +3,46 @@
   contents:
     - name: Full Name
       value: Feiko Bierman
+    - name: Tagline
+      value: Data & analytics leader · strategy, teams, and operations
     - name: Email
       value: feikobierman@gmail.com
     - name: LinkedIn
       value: feiko-bierman
     - name: GitHub
       value: gitb33rman
+    - name: Location
+      value: Utrecht, NL
+
+- title: Summary
+  contents: >
+    Data & analytics leader with 9+ years of experience across strategy, delivery, and team leadership. Currently
+    responsible for the full data delivery operation at Relevant Online, leading both the analytics and data
+    engineering teams, while serving on the management team. Combines hands-on expertise in measurement and cloud
+    data platforms with operational and commercial leadership.
 
 - title: Experience
   type: time_table
   contents:
     - title: Strategy & Analytics Lead
       institution: Relevant Online
+      location: Utrecht
       year: 2024 - now
       description:
-        - My role is a dynamic blend of operations, strategy, business, and technology
-        - Leading data teams and empowering team leads and team members.
-        - Crafting and executing data strategies tailored to client.
-        - Overseeing data-centric projects and serving as the primary point of contact.
-        - Developing new data use-cases with a strong focus on innovation.
+        - "Lead the analytics team (5+ analysts and tracking specialists): coaching, performance reviews, hiring, and capacity planning."
+        - "Since 2026 also leading the data engineering team (4+ engineers), carrying responsibility for the agency's entire delivery operation."
+        - Active member of the management team, driving agency-wide process improvement and operational maturity.
+        - "Craft and execute data strategies for a broad client portfolio across e-commerce, SaaS, and enterprise; senior point of contact on key accounts."
+        - "Drive product innovation, including rAnalytics, Relevant Online's first-party measurement solution, from positioning to client onboarding."
+        - Develop data governance and security propositions, helping clients mature beyond measurement alone.
     - title: Head of Data & Analytics
       institution: valantic NL
       year: 2022 - 2024
       description:
-        - Established and expanded the Data & Analytics team.
-        - Led and mentored a dynamic team of professionals.
-        - Democratised and engaged Data & Analytics across the organization and with clients.
-        - Innovated and commercialized data-driven propositions.
-        - Explored new frontiers in digital landscapes, consistently seeking innovation.
+        - Established and expanded the Data & Analytics team from the ground up to five specialists.
+        - "Led and mentored a dynamic team of professionals; set ways of working and quality standards."
+        - Democratised and engaged data & analytics across the organisation and with clients.
+        - Innovated and commercialised data-driven propositions.
     - title: Data & Analytics Strategist
       institution: valantic NL
       year: 2021 - 2022
@@ -39,6 +51,16 @@
       institution: valantic NL
       year: 2017 - 2021
       description:
+        - Part-time alongside studies until 2020, full-time from 2020 onwards.
+
+- title: Professional Activities
+  type: time_table
+  contents:
+    - title: "Committee member, Data, Decisions & Engagement"
+      institution: DDMA
+      year: 2026 - now
+      description:
+        - Volunteer committee within the Dutch trade association for data-driven marketing; focus on external communications and sector events.
 
 - title: Education
   type: "time_table"
@@ -47,25 +69,20 @@
       institution: Vrije Universiteit Amsterdam
       year: 2019 - 2020
       description:
-        - "GPA: 8.1 (Cum Laude)"
-        - "Thesis: Service robot usage and corporate social responsibility - how service robot interaction effects consumer reaction to corporate social initiatives due to lowered feelings of brand warmth"
+        - "Thesis: service robot usage and corporate social responsibility: how service robot interaction affects consumer reaction to corporate social initiatives through lowered feelings of brand warmth."
     - title: Bachelor of Arts in Entrepreneurship and Innovation
       institution: "Avans Hogeschool"
       year: 2013 - 2018
       description:
         - "GPA: 7.8"
-        - "Thesis: The opportunity's and risks of AI in Digital Marketing"
+        - "Thesis: the opportunities and risks of AI in digital marketing."
 
-- title: Skills
+- title: Skills & Certifications
   type: list
   contents:
-    - "Programming Languages: Python, R"
-    - "Cloud Tools: Google Cloud, BigQuery, DBT, Terraform"
-    - "Marketing Tools: Google Suite"
-    - "BI Tools: PowerBI, Tableau, Looker Studio"
-    - "Others: Jira, Git, HTML, YML"
-
-- title: Certifications
-  type: list
-  contents:
-    - "Growth Tribe: Data & Analytics, Year: 2022"
+    - "Programming: Python, R"
+    - "Cloud & data: Google Cloud, BigQuery, DBT, Terraform"
+    - "BI tools: PowerBI, Tableau, Looker Studio"
+    - "Marketing: Google Suite"
+    - "Other: Jira, Git, HTML, YML"
+    - "Certification: Growth Tribe: Data & Analytics (2022)"
